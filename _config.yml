@@ -1,4 +1,3 @@
-layout_spectrum: 0.4460929224733263
 typography_spectrum: 0.27478274097666144
 color:
   brandStrength: 0.4110631875228137
@@ -11,5 +10,7 @@ color:
     - '#CC4452'
     - '#723147'
     - '#31152B'
+layout_spectrum: 0.4460929224733263
 name: Lee Gicas
+title: Design Portfolio & Blog
 description: by Lee Gicas
